@@ -38,6 +38,7 @@ oooooooooooooooo
 
 * A page is 80 cols wide
 * As you'll see the letters are rotated, this means that you should avoid using characters that will tip people off to this fact. For example, this...
+
 ```
                                                 hhhhhhhhhhhhhhhh
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh            hhhh
