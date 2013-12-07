@@ -1,6 +1,6 @@
              oooooooooooooooooooooooooooooooo        
-         oooo                                oooo    
-         oooo                                oooo    
+          ooo                                ooo     
+         ooo                                  ooo    
      oooo                                        oooo
      oooo                                        oooo
      oooo            oooooooooooooooo            oooo
@@ -12,6 +12,6 @@
      oooo            oooooooooooooooo            oooo
      oooo                                        oooo
      oooo                                        oooo
-         oooo                                oooo    
-         oooo                                oooo    
+         ooo                                  ooo    
+          ooo                                ooo    
              oooooooooooooooooooooooooooooooo        
