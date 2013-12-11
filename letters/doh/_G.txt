@@ -1,21 +1,21 @@
                          oooooooooooooooooooooooo                    
-                     oooo                        oooo                
-                 oooo                                oooo            
-             oooo                                        oooo        
-             oooo                                        oooo        
-         oooo                                                oooo    
-         oooo            oooooooooooooooooooooooo            oooo    
-         oooo        oooo                        oooo        oooo    
-     oooo        oooo                                oooo        oooo
-     oooo        oooo                                oooo        oooo
-     oooo        oooo                                oooo        oooo
-     oooo        oooo        oooooooooooo            oooo        oooo
-     oooo        oooo        oooo    oooo            oooo        oooo
-     oooo        oooo        oooo    oooo            oooo        oooo
-         oooo    oooo        oooo    oooo            oooo        oooo
-         oooo    oooooooooooooooo    oooo        oooooooo        oooo
-         oooo                        oooo        oooo            oooo
-     oooo                            oooo        oooo            oooo
-     oooo                            oooo        oooo            oooo
-     oooo                            oooo        oooo            oooo
+                     oooo------------------------oooo                
+                 oooo--------------------------------oooo            
+             oooo----------------------------------------oooo        
+             oooo----------------------------------------oooo        
+         oooo------------------------------------------------oooo    
+         oooo------------oooooooooooooooooooooooo------------oooo    
+         oooo--------oooo                        oooo--------oooo    
+     oooo--------oooo                                oooo--------oooo
+     oooo--------oooo                                oooo--------oooo
+     oooo--------oooo                                oooo--------oooo
+     oooo--------oooo        oooooooooooo            oooo--------oooo
+     oooo--------oooo        oooo----oooo            oooo--------oooo
+     oooo--------oooo        oooo----oooo            oooo--------oooo
+         oooo----oooo        oooo----oooo            oooo--------oooo
+         oooo----oooooooooooooooo----oooo        oooooooo--------oooo
+         oooo------------------------oooo        oooo------------oooo
+     oooo----------------------------oooo        oooo------------oooo
+     oooo----------------------------oooo        oooo------------oooo
+     oooo----------------------------oooo        oooo------------oooo
      oooooooooooooooooooooooooooooooooooo        oooooooooooooooooooo

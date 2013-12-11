@@ -1,18 +1,18 @@
              oooooooooooo                            
-         oooo            oooo                        
-     oooo                    oooo        oooooooooooo
-     oooo                    oooo        oooo    oooo
-     oooo                        oooo    oooo    oooo
-     oooo        oooooooo        oooo    oooo    oooo
-     oooo    oooo        oooo    oooo    oooo    oooo
-     oooo    oooo        oooo    oooo    oooo    oooo
-     oooo    oooo        oooo    oooo    oooo    oooo
-     oooo    oooo        oooo    oooo    oooo    oooo
-     oooo        oooooooo        oooo    oooo    oooo
-     oooo                            oooo        oooo
-         oooo                                    oooo
-         oooo                                    oooo
-     oooo                                        oooo
-     oooo                                    oooo    
-     oooo    oooooooooooooooooooooooooooooooo        
+         oooo------------oooo                        
+     oooo--------------------oooo        oooooooooooo
+     oooo--------------------oooo        oooo----oooo
+     oooo------------------------oooo    oooo----oooo
+     oooo--------oooooooo--------oooo    oooo----oooo
+     oooo----oooo        oooo----oooo    oooo----oooo
+     oooo----oooo        oooo----oooo    oooo----oooo
+     oooo----oooo        oooo----oooo    oooo----oooo
+     oooo----oooo        oooo----oooo    oooo----oooo
+     oooo--------oooooooo--------oooo    oooo----oooo
+     oooo----------------------------oooo--------oooo
+         oooo------------------------------------oooo
+         oooo------------------------------------oooo
+     oooo----------------------------------------oooo
+     oooo------------------------------------oooo    
+     oooo----oooooooooooooooooooooooooooooooo        
      oooooooo                                        

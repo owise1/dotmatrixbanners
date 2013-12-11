@@ -1,8 +1,8 @@
      oooooooooooooooo                                oooooooooooooooo
-     oooo            oooooooooooooooooooooooooooooooo            oooo
-     oooo                                                        oooo
-     oooo                                                        oooo
-     oooo                                                        oooo
-     oooo                                                        oooo
-     oooo            oooooooooooooooooooooooooooooooooooooooooooooooo
+     oooo------------oooooooooooooooooooooooooooooooo------------oooo
+     oooo--------------------------------------------------------oooo
+     oooo--------------------------------------------------------oooo
+     oooo--------------------------------------------------------oooo
+     oooo--------------------------------------------------------oooo
+     oooo------------oooooooooooooooooooooooooooooooooooooooooooooooo
      oooooooooooooooo                                                
