@@ -1,0 +1,19 @@
+                 oooooooooooooooooooo                                
+             oooo--------------------oooo                            
+             oooo------------------------oooo                        
+         oooo--------------------------------oooo                    
+         oooo------------------------------------oooo                
+     oooo--------------------------------------------oooo            
+     oooo------------oooooooo----------------------------oooo        
+     oooo--------oooo        oooo----------------------------oooo    
+     oooo--------oooo        oooo--------------------------------oooo
+     oooo--------oooo        oooo--------oooo--------------------oooo
+     oooo--------oooo        oooo----oooo    oooo----------------oooo
+     oooo--------oooo        oooo----oooo        oooo------------oooo
+     oooo------------oooooooo--------oooo            oooo--------oooo
+     oooo----------------------------oooo                oooo----oooo
+         oooo------------------------oooo                    oooooooo
+         oooo--------------------oooo                            oooo
+             oooo----------------oooo                                
+             oooo------------oooo                                    
+                 oooooooooooo                                        

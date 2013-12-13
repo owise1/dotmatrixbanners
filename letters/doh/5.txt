@@ -1,0 +1,19 @@
+                 oooooooo        oooooooooooooooooooooooooooooooooooo
+             oooo----oooo        oooo----------------------------oooo
+             oooo----oooo        oooo----------------------------oooo
+         oooo--------oooo        oooo----------------------------oooo
+         oooo--------oooo        oooo----------------------------oooo
+     oooo------------oooo        oooo----------------------------oooo
+     oooo------------oooo        oooo----oooooooooooooooo--------oooo
+     oooo--------oooo            oooo----oooo        oooo--------oooo
+     oooo--------oooo            oooo----oooo        oooo--------oooo
+     oooo--------oooo            oooo----oooo        oooo--------oooo
+     oooo--------oooo            oooo----oooo        oooo--------oooo
+     oooo--------oooo            oooo----oooo        oooo--------oooo
+     oooo------------oooooooooooo--------oooo        oooo--------oooo
+     oooo--------------------------------oooo        oooo--------oooo
+         oooo----------------------------oooo        oooo--------oooo
+         oooo----------------------------oooo        oooo--------oooo
+             oooo--------------------oooo            oooo--------oooo
+             oooo----------------oooo                oooooooooooooooo
+                 oooooooooooooooo                                    
