@@ -1,6 +1,5 @@
 # Dot Matrix Printer Letters
 
-This is a collection of ascii letter for making banners on a dot matrix printer ala Print Shop.
 
 ```
                                                 oooooooooooooooo
@@ -34,10 +33,13 @@ oooooooooooooooo
 
 ```
 
+This is a collection of utf-8 characters for making banners on a dot matrix printer ala Print Shop.
+
 ## Notes
 
 * A page is 80 cols wide
-* As you'll see the letters are rotated, this means that you should avoid using characters that will tip people off to this fact. For example, this...
+* Each directory is a font. File names are the decimal utf-8 code (ex: 65.txt => A)
+* As you'll see the letters are rotated.  So this...
 
 ```
                                                 hhhhhhhhhhhhhhhh
@@ -62,5 +64,6 @@ hhhh                            hhhh
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh                                
 
 ```
-... isn't that great because on a banner, the "h"s will be oriented wrong
+... isn't that great because on a banner, the "h"s will be oriented wrong. Then again maybe it is great, so who knows.
+ 
 
