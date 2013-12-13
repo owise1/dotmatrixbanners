@@ -2,16 +2,16 @@
          oooo---------oooo        oooo----oooo        
       ooo--------------ooo      oo-----------oooo    
      oooo-------------ooo      o---------------oooo    
-     oooo-----------oooo     o------------------oooo
-     oooo-----------ooo     o-------------------oooo
+     oooo------------ooo     o------------------oooo
+     oooo-----------oo      o-------------------oooo
      oooo--------ooo      oo------ooo-----------oooo
      oooo-------ooo      o------ooooooo---------oooo
      oooo-------ooo     o------oo    ooo--------oooo
      oooo--------ooooooo------oo     ooo--------oooo
-     oooo-----------oo------oo     oooo---------oooo
-     oooo------------------o      oo------------oooo
-      ooo-----------------o     oooo------------oooo
-         oooo-------------oo      ooo-----------oooo
+     oooo-----------oo-------o     oooo---------oooo
+     oooo-------------------o     oo------------oooo
+      ooo------------------o    oooo------------oooo
+         oooo-------------o      ooo-----------oooo
          oooo-----------oo        oooo-------oooo    
              oooo-----ooo          ooo---oooo        
                  oooo                oooo            
