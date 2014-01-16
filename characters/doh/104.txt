@@ -1,10 +1,10 @@
-                                                     oooooooooooooooo
-     oooooooooooooooooooooooooooooooooooooooooooooooo------------oooo
-     oooo--------------------------------------------------------oooo
-     oooo--------------------------------------------------------oooo
-     oooo--------------------------------------------------------oooo
-     oooo--------------------------------------------------------oooo
-     oooo------------------------------------oooooooooooooooooooooooo
+                                                     oooooooooooooooooooo
+     oooooooooooooooooooooooooooooooooooooooooooooooo----------------oooo
+     oooo------------------------------------------------------------oooo
+     oooo------------------------------------------------------------oooo
+     oooo------------------------------------------------------------oooo
+     oooo------------------------------------------------------------oooo
+     oooo------------------------------------oooooooooooooooooooooooooooo
      oooooooooooooooooooooooooooo------------oooo                    
                                  oooo------------oooo                
                                      oooo--------oooo                
