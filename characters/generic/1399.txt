@@ -1,15 +1,14 @@
-           oooo                                                       
-         ooooooooo                                                    
-         ooooooooooo                         oooo                     
-        oooooooooooooo                      oooooo                    
-        oooooo  oooooooo                     oooooo                   
-        ooooo     oooooooo                    ooooo                   
-        ooooo       oooooooo                   ooooo                  
-        oooo          oooooooo                 ooooo                  
-        oooo            oooooooo               ooooo                  
-        oooo              oooooooo            oooooo                  
-        oooo                oooooooo        ooooooo                   
-        oooo                  oooooooooooooooooooo                    
-        oooo                    ooooooooooooooooo                     
-        oooo                      oooooooooooooo                      
-        oooo                        oooooooooo                        
+                                    o                                 
+                         ooooo      oo                                
+                      oooooooooo     o                                
+                     ooooooooooooo   o                                
+                    oooo       ooooo o                                
+                   oo             ooo o                               
+                   o                ooo                               
+                   o                  o                               
+                   o                  o                               
+                   oo                oo                               
+                    oo              oo                                
+                    oooooo       ooooo                                
+                     ooooo       oooo                                 
+                       ooo       ooo                                  

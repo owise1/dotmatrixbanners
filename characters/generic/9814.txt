@@ -1,0 +1,30 @@
+            oooooooooo                                                
+            oo    ooooo                                               
+            oo    oo  ooo                         oooooooooooo        
+            oo    oo   oooooo                    ooo         o        
+            oo    oo      ooooo                 oooo         o        
+            oo    oo      oo ooo               ooooo         o        
+            oo    oo      oo   oooooooooooooooooo oo         o        
+            oo    oo      oo     ooooooooooooooo  oo   ooooooo        
+            oo    oo      oo     o            oo  oo   oo             
+            oo    oo      oo     o            oo  oo   oo             
+            oo    oo      oo     o            oo  oo   oo             
+            oo    oo      oo     o            oo  oo   oo             
+            oo    oo      oo     o            oo  oo   ooooooo        
+            oo    oo      oo     o            oo  oo         o        
+            oo    oo      oo     o            oo  oo         o        
+            oo    oo      oo     o            oo  oo         o        
+            oo    oo      oo     o            oo  oo   ooooooo        
+            oo    oo      oo     o            oo  oo   oo             
+            oo    oo      oo     o            oo  oo   oo             
+            oo    oo      oo     o            oo  oo   oo             
+            oo    oo      oo     o            oo  oo   oo             
+            oo    oo      oo     o            oo  oo   ooooooo        
+            oo    oo      oo   oooooooooooooooooo oo   ooooooo        
+            oo    oo      oo  ooo              ooooo         o        
+            oo    oo      ooooo                 oooo         o        
+            oo    oo    oooooo                   ooo         o        
+            oo    oo  oooooo                      oooooooooooo        
+            oo    oo oo                                               
+            oooooooooo                                                
+            oooooooo                                                  

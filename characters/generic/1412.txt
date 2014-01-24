@@ -1,24 +1,13 @@
-             oooo                                                     
-             oooo                                                     
-             oooo                                                     
-             oooo                                                     
-        ooooooooooooooooooooooooooooooooooooooooooo                   
-        ooooooooooooooooooooooooooooooooooooooooooo                   
-        ooooooooooooooooooooooooooooooooooooooooooo                   
-        ooooooooooooooooooooooooooooooooooooooooooo                   
-             oooo         ooooooo         ooooooo                     
-             oooo        ooooo               ooooo                    
-             oooo       ooooo                  oooo                   
-             oooo      ooooo                   ooooo                  
-             oooo      oooo                     oooo                  
-             oooo      oooo                     oooo                  
-             oooo      oooo                     oooo                  
-             oooo      oooo                     oooo                  
-             oooo      ooooo                   ooooo                  
-             oooo       ooooo                 ooooo                   
-             oooo       oooooo              ooooooo                   
-             oooo        ooooooooooooooooooooooooo                    
-             oooo         ooooooooooooooooooooooo                     
-                            ooooooooooooooooooo                       
-                              ooooooooooooooo                         
-                                   oooo                               
+                   o                 o                                
+                   o                 o                                
+                   o                 o                                
+                   ooooooooooooooooooooooooooooooooo                  
+                   ooooooooooooooooooooooooooooooooooo                
+                   ooooooooooooooooooooooooooooooooooooo              
+                   o                 o                ooo             
+                   o                 o                  o             
+                   o                 o                  o             
+                                     o                  o             
+                                     o             ooo  o             
+                                                   ooooo              
+                                                    oo                

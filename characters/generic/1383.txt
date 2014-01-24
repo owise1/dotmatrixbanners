@@ -1,11 +1,15 @@
-                    ooooooooooooooooooooooooooooooooooooooooooo       
-                    ooooooooooooooooooooooooooooooooooooooooooo       
-                    ooooooooooooooooooooooooooooooooooooooooooo       
-                    ooooooooooooooooooooooooooooooooooooooooooo       
-                    ooooo                   oooo                      
-                    ooooo                   oooo                      
-             oooooooooooo                   oooo                      
-             oooooooooooo                   oooo                      
-             oooooooooooo                   oooo                      
-             oooooooooooo                   oooo                      
-                                            oooo                      
+                                                       oo             
+                                                       oo             
+                   oooooooooooooooooooooooooooooooooooooo             
+                   oooooooooooooooooooooooooooooooooooooo             
+                   oooooooooooooooooooooooooooooooooooooo             
+                   o                 o                                
+                   o                 o                                
+                   o                 o                                
+                   o                 o                                
+                  oo                 o                                
+            oooooooo                 o                                
+            ooooooo                  o                                
+            oooooo                   o                                
+                                     o                                
+                                     o                                

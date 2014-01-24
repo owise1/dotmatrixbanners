@@ -1,9 +1,5 @@
-                                                               o      
-                                                              oo      
-                                                            oooo      
-                                                           ooooo      
-                                                          oooooo      
-                                                        ooooooo       
-                                                       ooooo          
-                                                       ooo            
-                                                       o              
+                                                        oooooo        
+                                                   ooooooooooo        
+                                                   ooooooooooo        
+                                                   oooooooooo         
+                                                   ooo                

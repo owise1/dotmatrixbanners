@@ -1,15 +1,11 @@
+             ooo                                                      
             oooo                                                      
+       ooo   ooo                                                      
+      oooo                                                            
+       ooo   oo                                                       
             oooo                                                      
-            oooo                                                      
-     oooo                                                             
-     oooo                                                             
-     oooo                                                             
-            oooo                                                      
-            oooo                                                      
-            oooo                                                      
+             ooo                                                      
                                                                       
-                                                                      
-                                                                      
-     oooo   oooo                                                      
-     oooo   oooo                                                      
-     oooo   oooo                                                      
+       oo    oo                                                       
+      oooo  oooo                                                      
+       ooo  oooo                                                      

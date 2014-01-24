@@ -1,9 +1,8 @@
         oooo                                                          
-        ooooo                                                         
-        ooooo                                                         
-        ooooo                                                         
-        ooooooo                                                       
-         oooooooooooooooooooooooooooooooooooooooooo                   
-         oooooooooooooooooooooooooooooooooooooooooo                   
-           oooooooooooooooooooooooooooooooooooooooo                   
-              ooooooooooooooooooooooooooooooooooooo                   
+       oooooo                                                         
+      oo  oo                                                          
+      oo                             o                                
+       o                             o                                
+       oo       oooooooooooooooooooooo                                
+        oooooooooooooooooooooooooooooo                                
+          ooooooooooooooooooooooooooooo                               
