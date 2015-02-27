@@ -1,6 +1,6 @@
 # Dot Matrix Printer Letters
 
-These are the letters used on [DotMatrixPrinting.com](dotmatrixprinting.com)
+These are the letters used on [DotMatrixPrinting.com](http://dotmatrixprinting.com)
 
 
 ```
